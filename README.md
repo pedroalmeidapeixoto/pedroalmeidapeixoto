@@ -12,13 +12,13 @@ My professional experience includes backend development, data processing, automa
 
 ## About
 
-* 🎯 Backend Developer focused on **C#/.NET**
-* 💻 Experience with backend development and REST APIs
-* 🔗 Experience building integrations between systems and external services
-* ⚙️ Experience with data processing and process automation
-* 🗄️ Experience with relational and NoSQL databases
-* 🎓 Information Systems student at UNIFACISA
-* 🌎 English — Cambridge B2
+* Backend Developer focused on **C#/.NET**
+* Experience with backend development and REST APIs
+* Experience building integrations between systems and external services
+* Experience with data processing and process automation
+* Experience with relational and NoSQL databases
+* Information Systems student at UNIFACISA
+* English — Cambridge B2
 
 ---
 

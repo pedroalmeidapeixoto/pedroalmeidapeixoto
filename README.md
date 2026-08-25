@@ -1,4 +1,4 @@
-# Pedro Henrique Almeida Peixoto
+# Pedro Henrique de Almeida Peixoto
 
 ### Backend Developer
 

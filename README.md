@@ -6,7 +6,17 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=C%23+%2F+.NET+%2F+ASP.NET+Core;REST+APIs+%2F+PostgreSQL+%2F+SQL;Java+%2F+Spring+Boot;Node.js+%2F+TypeScript;Building+real+software" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pedroalmeidapeixoto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9C0&icon_color=00D9C0&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=pedroalmeidapeixoto&hide_border=true&background=0D1117&ring=00D9C0&fire=00D9C0&currStreakLabel=00D9C0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" alt="GitHub Streak" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalmeidapeixoto&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+
+<br/><br/>
 
 ### Technologies
 

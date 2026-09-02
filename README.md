@@ -8,13 +8,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedroalmeidapeixoto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9C0&icon_color=00D9C0&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=pedroalmeidapeixoto&hide_border=true&background=0D1117&ring=00D9C0&fire=00D9C0&currStreakLabel=00D9C0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" alt="GitHub Streak" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalmeidapeixoto&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=pedroalmeidapeixoto&hide_border=true&background=0D1117&ring=00D9C0&fire=00D9C0&currStreakLabel=00D9C0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" alt="GitHub Streak" width="85%"/>
 
 <br/><br/>
 

@@ -1,16 +1,16 @@
 <div align="center">
 
-# Oi! Eu sou Pedro Henrique 
+# Hi! I'm Pedro Henrique 
 
 ## Backend Developer | C# • .NET • ASP.NET Core
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=C%23+%2F+.NET+%2F+ASP.NET+Core;APIs+REST+%2F+PostgreSQL+%2F+SQL;Java+%2F+Spring+Boot;Node.js+%2F+TypeScript;Building+real+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=C%23+%2F+.NET+%2F+ASP.NET+Core;REST+APIs+%2F+PostgreSQL+%2F+SQL;Java+%2F+Spring+Boot;Node.js+%2F+TypeScript;Building+real+software" alt="Typing SVG" />
 
 <br/>
 
-### Tecnologias
+### Technologies
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,react,postgres,mysql,supabase,docker,git,github,postman&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,react,postgres,mysql,supabase,docker,git,github,postman&theme=dark" alt="Technologies" />
 
 <br/><br/>
 
@@ -18,111 +18,111 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou Desenvolvedor de Software com foco em **backend, APIs REST, bancos de dados e desenvolvimento de aplicações**.
+I'm a Software Developer focused on **backend development, REST APIs, databases, and application development**.
 
-Atualmente, estou direcionando meus estudos e projetos para **C# e .NET**, com foco em:
+Currently, I'm directing my studies and projects toward **C# and .NET**, with a focus on:
 
-- desenvolvimento de APIs;
+- API development;
 - ASP.NET Core;
-- bancos de dados relacionais;
-- arquitetura de software;
+- relational databases;
+- software architecture;
 - Docker;
 - cloud;
-- boas práticas de desenvolvimento.
+- software development best practices.
 
-Também possuo experiência prática com **Java, Spring Boot, Node.js, TypeScript, PostgreSQL e React**, utilizando essas tecnologias em projetos acadêmicos e pessoais.
+I also have practical experience with **Java, Spring Boot, Node.js, TypeScript, PostgreSQL, and React**, using these technologies in academic and personal projects.
 
 ---
 
-## Projetos em destaque
+## Featured Projects
 
 ### MedRecord
 
-Sistema voltado para gerenciamento de prontuários eletrônicos, desenvolvido com foco em organização de dados, APIs e arquitetura de software.
+Electronic health record management system developed with a focus on data organization, APIs, and software architecture.
 
-**Tecnologias:**
+**Technologies:**
 
 `TypeScript` `Node.js` `PostgreSQL` `Drizzle ORM` `React`
 
-🔗 [Acessar repositório](https://github.com/pedroalmeidapeixoto/MedRecord)
+🔗 [View repository](https://github.com/pedroalmeidapeixoto/MedRecord)
 
 ---
 
 ### Library Management API
 
-API para gerenciamento de biblioteca, desenvolvida com foco em operações CRUD, testes automatizados e integração contínua.
+Library management API developed with a focus on CRUD operations, automated testing, and continuous integration.
 
-**Tecnologias:**
+**Technologies:**
 
 `Python` `Flask` `REST API` `Pytest` `GitLab CI`
 
-🔗 [Acessar repositório](https://github.com/pedroalmeidapeixoto/library-management-api)
+🔗 [View repository](https://github.com/pedroalmeidapeixoto/library-management-api)
 
 ---
 
 ### Portfolio
 
-Meu próprio portfólio também é um projeto de software.
+My own portfolio is also a software project.
 
-A aplicação possui frontend em React + Vite e uma API em Node.js integrada a PostgreSQL através do Supabase.
+The application features a React + Vite frontend and a Node.js API integrated with PostgreSQL through Supabase.
 
-Entre os recursos implementados estão:
+Implemented features include:
 
-- integração com API do GitHub;
-- health check;
-- operações CRUD;
-- persistência de dados;
-- registro de requisições;
-- integração frontend → API → banco de dados;
-- ambientes local e produção;
-- deploy na Vercel.
+- GitHub API integration;
+- application health check;
+- CRUD operations;
+- data persistence;
+- request logging;
+- frontend → API → database integration;
+- local and production environments;
+- Vercel deployment.
 
-**Tecnologias:**
+**Technologies:**
 
 `React` `Vite` `Node.js` `PostgreSQL` `Supabase` `Vercel`
 
-🔗 [Acessar portfólio](https://pedroalmeidapeixoto.com.br/)
+🔗 [View portfolio](https://pedroalmeidapeixoto.com.br/)
 
-🔗 [Acessar repositório](https://github.com/pedroalmeidapeixoto/pedro-portfolio)
+🔗 [View repository](https://github.com/pedroalmeidapeixoto/pedro-portfolio)
 
 ---
 
-## Atualmente estudando
+## Currently Studying
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,aws&theme=dark" alt="Tecnologias em estudo" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,aws&theme=dark" alt="Technologies I'm studying" />
 
 </div>
 
-### C# e .NET
+### C# and .NET
 
-Aprofundando conhecimentos em:
+Deepening my knowledge in:
 
 - C#;
 - .NET;
 - ASP.NET Core;
-- APIs REST;
+- REST APIs;
 - Entity Framework Core;
 - PostgreSQL;
-- arquitetura de software;
+- software architecture;
 - Docker;
 - cloud;
-- microsserviços.
+- microservices.
 
 ---
 
-## Objetivo profissional
+## Professional Goal
 
-Meu objetivo é atuar como **Desenvolvedor Backend**, trabalhando principalmente com **C#/.NET**, APIs, bancos de dados e arquitetura de software.
+My goal is to work as a **Backend Developer**, primarily working with **C#/.NET**, APIs, databases, and software architecture.
 
-Busco constantemente transformar conhecimento teórico em **projetos reais**, mantendo uma evolução contínua tanto na parte técnica quanto na engenharia de software.
+I continuously seek to turn theoretical knowledge into **real-world projects**, while maintaining continuous growth in both technical skills and software engineering.
 
 ---
 
-## Conecte-se comigo
+## Connect With Me
 
 <div align="center">
 
